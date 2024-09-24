@@ -1,2 +1,6 @@
 
 plugin-build/plugin/build/
+
+.idea/
+.gradle/
+.plugin-build/.gradle/
